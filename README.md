@@ -4,7 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
 
