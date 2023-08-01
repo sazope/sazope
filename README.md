@@ -3,6 +3,7 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> 
 <!-- TECHNOLOGIES -->     
 ### 🛠 &nbsp;Tech Stack
 
