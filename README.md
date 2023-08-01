@@ -1,4 +1,9 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20there&fontSize=40) <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">
+<!-- Hello there header with image -->
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20there&fontSize=40" alt="Hello there header" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60" alt="GIF">
+</div>
+
 
 
   
