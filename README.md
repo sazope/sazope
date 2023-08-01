@@ -2,7 +2,7 @@
   
 
 
-(https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562)" />
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
