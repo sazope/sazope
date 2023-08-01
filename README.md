@@ -2,7 +2,15 @@
 <img width="43%" align="right" alt="Github" src="https://user-images.githubusercontent.com/29804103/136192963-8a233c54-2db4-40b8-ae54-02387e083354.png" />
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
+
+<!-- TECHNOLOGIES -->     
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;    
+<!-- lINE -->    
 <hr>
+    
 <!-- SNAKE GAME -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
 
