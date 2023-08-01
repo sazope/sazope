@@ -12,6 +12,9 @@
 <!-- lINE -->    
 <hr>
 ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+
+
+
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
 
 
