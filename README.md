@@ -19,12 +19,19 @@ I'm a passionate developer who loves to create cool stuff with code. I specializ
 ### Project 1: Awesome Project
 A brief description of your awesome project. Add a screenshot or GIF to make it visually appealing.
 
+<!-- Animated GIF -->
+![Project 1 GIF](https://link-to-your-gif.gif)
+
 ### Project 2: Another Cool Project
 A brief description of your another cool project. Add a screenshot or GIF here as well.
+
+<!-- Animated GIF -->
+![Project 2 GIF](https://link-to-your-gif.gif)
 
 <!-- Let's Connect -->
 ## Let's Connect 🌍
 <p align="center">
+  <!-- Custom Badges -->
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -39,19 +46,23 @@ A brief description of your another cool project. Add a screenshot or GIF here a
 <!-- GitHub Stats -->
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <!-- Custom Animated Background -->
+  <img src="https://your-animated-background-url" alt="Your GitHub Stats">
 </p>
 
 <!-- Top Languages -->
 ## Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Your Top Languages">
+  <!-- Interactive Code Demos -->
+  <a href="https://your-codepen-demo-url">
+    <img src="https://your-codepen-demo-image" alt="Your CodePen Demo">
+  </a>
 </p>
 
-<!-- Visitors Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile Views">
-</p>
+<!-- Personal Touch -->
+## Fun Facts
+- 🎮 I'm an avid gamer.
+- 🎨 I enjoy digital art and graphics design.
 
 <!-- Footer -->
 <p align="center">
