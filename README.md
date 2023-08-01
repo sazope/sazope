@@ -10,7 +10,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;    
 <!-- lINE -->    
 <hr>
+
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+
+
 <!-- Updated language and tools -->
 
 <img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
