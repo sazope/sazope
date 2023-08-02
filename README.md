@@ -61,6 +61,8 @@
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)
 ![notion](https://img.shields.io/badge/-notion-05122A?style=flat&logo=notion)
 ![microsoft-365](https://img.shields.io/badge/-Microsoft%20365-05122A?style=flat&logo=microsoft)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 
 
 
