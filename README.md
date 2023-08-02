@@ -1,13 +1,15 @@
 <!-- Hello there header with background -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20there&fontSize=40)
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
+<!-- cats -->    
+<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">    
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- TECHNOLOGIES -->     
