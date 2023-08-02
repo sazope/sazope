@@ -1,6 +1,6 @@
 <!-- Hello there header with background -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20there&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
