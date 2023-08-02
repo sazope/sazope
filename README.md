@@ -2,21 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
 
+<!-- side gif -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
-
-
-
+<!-- view count -->
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/> 
 </p>
 
 <!-- cats -->    
-<h2><img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> </h2>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h2>
+<!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  --> 
 
-<!-- TECHNOLOGIES -->     
+<!-- TECHNOLOGIES [https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif] -->     
 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -65,10 +63,7 @@
 <hr>
 <!--![Profile Views](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)-->
 
-
-
-
- ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true) 
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true) 
 
 
 <!-- Updated language and tools
@@ -78,8 +73,8 @@
 <img align="left" alt="C++" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  -->
 
 
-<!-- SNAKE GAME -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
+<!-- SNAKE GAME 
+![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg) -->
 
 <!-- DROPDOWN -->
 <details>
