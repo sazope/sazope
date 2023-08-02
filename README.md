@@ -91,6 +91,11 @@
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
 
+<a href="https://www.linkedin.com/in/zshreya/" target="_blank" rel="nofollow">
+  <img align="center" src="https://github.com/sazope/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+
 <a href="https://github.com/sazope">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazope&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
