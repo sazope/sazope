@@ -1,11 +1,9 @@
-<!-- Hello there header with image -->
+<!-- Hello there header with background -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20there&fontSize=40)
 <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">
 
 
-  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60" alt="GIF">
-
-
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> 
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
