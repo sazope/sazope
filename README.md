@@ -9,7 +9,9 @@
 
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=sazope" alt="sazope"/> 
+    <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/> 
+</p>
+
 <!-- cats -->    
 <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">    
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -18,10 +20,51 @@
 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;    
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
+![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![matlab](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+![tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+![powerbi](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)
+![aws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![azure-databricks](https://img.shields.io/badge/-Azure%20Databricks-05122A?style=flat&logo=apache-spark)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
+![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat&logo=ggplot2)
+![caret](https://img.shields.io/badge/-caret-05122A?style=flat&logo=caret)
+![Shiny](https://img.shields.io/badge/-Shiny-05122A?style=flat&logo=shiny)
+![dplyr](https://img.shields.io/badge/-dplyr-05122A?style=flat&logo=dplyr)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=python)
+![Data Wrangling](https://img.shields.io/badge/-Data%20Wrangling-05122A?style=flat&logo=pandas)
+![Statistical Concepts](https://img.shields.io/badge/-Statistical%20Concepts-05122A?style=flat&logo=statistics)
+![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-05122A?style=flat&logo=abtest)
+![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=apache-airflow)
+![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-05122A?style=flat&logo=apache-nifi)
+![MLOps](https://img.shields.io/badge/-MLOps-05122A?style=flat&logo=kubernetes)
+
+
+
+
+
 <!-- lINE -->    
 <hr>
-![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+
 
 
 
