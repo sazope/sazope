@@ -13,7 +13,7 @@
 </p>
 
 <!-- cats -->    
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60">    
+<h2><img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> </h2>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- TECHNOLOGIES -->     
@@ -63,19 +63,19 @@
 
 <!-- lINE -->    
 <hr>
-![Profile Views](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)-->
 
 
 
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+ ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true) 
 
 
-<!-- Updated language and tools -->
+<!-- Updated language and tools
 
 <img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JS"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C++" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C++" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  -->
 
 
 <!-- SNAKE GAME -->
