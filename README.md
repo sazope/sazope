@@ -27,7 +27,6 @@
 <!-- TECHNOLOGIES [https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif] -->     
 <details open>
   <summary><ins><strong><em><h3> Tech Stack: </h3></em></strong></ins></summary>
-<h3 align="left">Tech Stack:</h3>
 	
 <!-- 🛠 &nbsp;Tech Stack  --> 
 
@@ -110,7 +109,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazope&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
