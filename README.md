@@ -13,15 +13,23 @@
 
 <!-- cats -->   
 <details open>
-  <summary><ins><strong><em><h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h2></em></strong></ins></summary>
-    Shreya Zope
+  <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
+     
+- Currently pursuing MS in Information Systems with a certification in Data Science
+- Working part-time as a Data Analyst at Boehringer Ingelheim
+- Passionate about exploring new datasets and building predictive models
+- Fun fact: Successfully transitioned from Architecture to Data Science
+
 </details>
 
 <!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  --> 
 
 <!-- TECHNOLOGIES [https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif] -->     
-<h3 align="left">Frontend Development:</h3>
-🛠 &nbsp;Tech Stack
+<details open>
+  <summary><ins><strong><em><h3> Tech Stack: </h3></em></strong></ins></summary>
+<h3 align="left">Tech Stack:</h3>
+	
+<!-- 🛠 &nbsp;Tech Stack  --> 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
