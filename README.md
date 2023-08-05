@@ -1,7 +1,10 @@
 <!-- Header for the readme -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
-<h3 align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40" alt="header">
+</p>
+<h3 align="center" style="margin-top: -20px;">Data Scientist - Machine Learning Enthusiast - Story Teller</h3>
+
 <h4 align="center">
     <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>
 </h4>
