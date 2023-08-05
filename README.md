@@ -1,7 +1,11 @@
 <!-- Header for the readme -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=170&section=header&text=Hello%20there&fontSize=40)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFF00,50:e53935,100:feac5e&height=170&section=header&text=Hello%20there&fontSize=40)
+Purple: Color Code 833ab4
+Pink: Color Code feac5e
+Red: Color Code e53935
+Orange: Color Code ff6a00
+Yellow: Color Code FFFF00
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
