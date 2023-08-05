@@ -15,7 +15,7 @@
  
 
 <!-- side gif -->
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
 <!-- cats -->   
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
