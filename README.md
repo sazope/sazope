@@ -37,8 +37,8 @@ Yellow: Color Code FFFF00 -->
 </details>
 
 <!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  --> 
-
-   
+<!-- lINE -->    
+<hr>
 <details open>
   <summary><ins><strong><em><h3> Tech Stack: </h3></em></strong></ins></summary>
 	
@@ -80,12 +80,13 @@ Yellow: Color Code FFFF00 -->
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 
-</details>
-
-
-
 <!-- lINE -->    
 <hr>
+
+</details>
+<h3> <img src="https://media.giphy.com/media/Y3POcDoxR7L3UbsuF0/giphy.gif" width="40"> Always up for a chat! </h3>
+</details>
+
 
 <!-- DROPDOWN -->
 <!--  <details>
