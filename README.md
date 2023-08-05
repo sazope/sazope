@@ -2,16 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
 <h3 align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller</h3>
-
+<!-- view count -->
 <h4 align="center">
     <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>
 </h4>
+
+<!-- lINE -->    
+<hr>
 <!-- side gif -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
-
-<!-- view count -->
-
-
 <!-- cats -->   
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
