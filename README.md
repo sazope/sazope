@@ -1,7 +1,12 @@
 <!-- Header for the readme -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
-<h3 align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=170&section=header&text=Hello%20there&fontSize=40)
+
+
+<h3 align="center">
+<img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
+</h3>
+
 
 <!-- Center deck -->
 <h4 align="center">
