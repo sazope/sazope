@@ -7,6 +7,7 @@
     <a href="https://sites.google.com/view/zshrey/"><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> <a href="https://www.linkedin.com/in/zshreya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"> <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>  <a href="mailto:sazope@syr.edu"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"</a>  
  </a>
 
+<!-- lINE -->   
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 </p>
@@ -18,10 +19,10 @@
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
      
-- 📚 Pursuing MS in Information Systems with a certification in Data Science
+- 📚 Pursuing MS in *Information Systems* with a certification in *Data Science*
 - 💼 Part-time Data Analyst at *Boehringer Ingelheim*
-- 🕵️ Passionate about exploring new datasets and building predictive models
-- 🎯 Fun fact: Made a successful transition from Architecture to Data Science
+- 🕵️ Passionate about exploring *new datasets* and *building predictive models*
+- 🎯 Fun fact: Transformed from the realm of Architecture to the captivating world of Data Science
 
 </details>
 
@@ -92,6 +93,3 @@
 	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 <p align="center"> <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a target="_blank" href="mailto:a@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a></p>
-	
-<!-- lINE -->    
-<a href="https://github.com/sazope"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
