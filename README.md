@@ -72,19 +72,12 @@
 
 <!-- lINE -->    
 <hr>
-<!--![Profile Views](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)-->
-
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true) 
 
 <!-- DROPDOWN -->
 <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
-
-<a href="https://www.linkedin.com/in/zshreya/" target="_blank" rel="nofollow">
-  <img align="center" src="https://github.com/sazope/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
 
 <a href="https://github.com/sazope">
