@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20there&fontSize=40)
 <h3 align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller</h3>
-<!-- view count -->
+
+<!-- Center deck -->
 <h4 align="center">
     <a href="https://sites.google.com/view/zshrey/"><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> <a href="https://www.linkedin.com/in/zshreya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"> <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>  <a href="mailto:sazope@syr.edu"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"</a>  
  </a>
@@ -14,7 +15,7 @@
  
 
 <!-- side gif -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif">
 <!-- cats -->   
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
