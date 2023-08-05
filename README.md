@@ -1,7 +1,7 @@
 <!-- Header for the readme -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFF00,50:e53935,100:feac5e&height=170&section=header&text=Hello%20there&fontSize=40)
-Purple: Color Code 833ab4
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFF00,50:ff6a00,100:e53935&height=170&section=header&text=Hello%20there&fontSize=40)
+<!-- Purple: Color Code 833ab4
 Pink: Color Code feac5e
 Red: Color Code e53935
 Orange: Color Code ff6a00
