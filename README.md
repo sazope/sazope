@@ -83,9 +83,11 @@ Yellow: Color Code FFFF00 -->
 <!-- lINE -->    
 <hr>
 
-</details>
-<h3> <img src="https://media.giphy.com/media/Y3POcDoxR7L3UbsuF0/giphy.gif" width="40"> Always up for a chat! </h3>
-</details>
+
+  <h3> <img src="https://media.giphy.com/media/Y3POcDoxR7L3UbsuF0/giphy.gif" width="40"> <a href="mailto:sazope@syr.edu">Always up for a chat!</a> </h3>
+
+
+
 
 
 <!-- DROPDOWN -->
