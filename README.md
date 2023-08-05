@@ -83,7 +83,8 @@
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
 
-## Let's Connect
+<!-- EXTRA -->
+<!-- ## Let's Connect
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -92,4 +93,4 @@
 	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-<p align="center"> <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a target="_blank" href="mailto:a@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a target="_blank" href="mailto:a@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a></p> -->
