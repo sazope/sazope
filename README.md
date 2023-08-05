@@ -4,8 +4,8 @@
 <h3 align="center"> Data Scientist -  Machine Learning Enthusiast -  Story Teller</h3>
 <!-- view count -->
 <h4 align="center">
-    <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>
-	<a href="https://www.linkedin.com/in/zshreya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:sazope@syr.edu"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://sites.google.com/view/zshrey/"><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> <a href="https://www.linkedin.com/in/zshreya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"> <img src="https://komarev.com/ghpvc/?username=sazope&color=blueviolet" alt="sazope"/>  <a href="mailto:sazope@syr.edu"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"</a>  
+ </a>
 
 </h4>
 </p>
