@@ -76,7 +76,7 @@ Yellow: Color Code FFFF00 -->
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost)
-![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-05122A?style=flat&logo=apache-nifi)
+<!-- ![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-05122A?style=flat&logo=apache-nifi) --> 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 
