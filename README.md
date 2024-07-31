@@ -29,9 +29,9 @@ Yellow: Color Code FFFF00 -->
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
      
-- 📚 Pursuing MS in *Information Systems* with a certification in *Data Science*
-- 💼 Data Analyst Intern at *Boehringer Ingelheim*
-- 🕵️ Passionate about exploring *new datasets* and *building predictive models*
+- 📚 A graduate with a Master's degree in *Data Science* and *Information Systems*
+- 💼 Previously Data Scientist @ *Boehringer Ingelheim*
+- 🕵️ Experienced in analyzing diverse datasets and *building robust models*
 - 🎯 Fun fact: Transformed from the realm of Architecture to the captivating world of Data Science
 
 </details>
