@@ -47,39 +47,57 @@ Yellow: Color Code FFFF00 -->
 #### Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
-#### Tools:
-![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+#### Data, Cloud & Infrastructure:
+![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow)&nbsp;
+![GCP](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
+#### Machine Learning & Applied AI:
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![LightGBM](https://img.shields.io/badge/-LightGBM-05122A?style=flat)&nbsp;
+![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI%20APIs-05122A?style=flat&logo=openai)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini)&nbsp;
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat)
+
+#### Python Libraries:
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+
+#### Analytics & Visualization:
+![Sigma](https://img.shields.io/badge/-Sigma-05122A?style=flat)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
+![Mode](https://img.shields.io/badge/-Mode-05122A?style=flat)
+
+#### Development Tools:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-![powerbi](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![aws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
-![azure-databricks](https://img.shields.io/badge/-Azure%20Databricks-05122A?style=flat&logo=apache-spark)
-![matlab](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
-![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)
-![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![microsoft-365](https://img.shields.io/badge/-Microsoft%20365-05122A?style=flat&logo=microsoft)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=launchdarkly)
 
-#### Libraries:
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost)
-<!-- ![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-05122A?style=flat&logo=apache-nifi) --> 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+#### Design:
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobeindesign)
 
 <!-- lINE -->    
 <hr>
