@@ -88,7 +88,7 @@ Yellow: Color Code FFFF00 -->
 #### Development Tools:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-05122A?style=flat&logo=launchdarkly)
