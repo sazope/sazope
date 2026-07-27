@@ -64,7 +64,7 @@ Yellow: Color Code FFFF00 -->
 ![azure-databricks](https://img.shields.io/badge/-Azure%20Databricks-05122A?style=flat&logo=apache-spark)
 ![matlab](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![microsoft-365](https://img.shields.io/badge/-Microsoft%20365-05122A?style=flat&logo=microsoft)
 
 #### Libraries:
