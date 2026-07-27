@@ -29,10 +29,11 @@ Yellow: Color Code FFFF00 -->
 <details open>
   <summary><ins><strong><em><h3> About me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> </h3></em></strong></ins></summary>
      
-- 📚 A graduate with a Master's degree in *Data Science* and *Information Systems*
-- 💼 Previously Data Scientist @ *Boehringer Ingelheim*
-- 🕵️ Experienced in analyzing diverse datasets and *building robust models*
-- 🎯 Fun fact: Transformed from the realm of Architecture to the captivating world of Data Science
+- 📚 Master’s graduate in *Information Systems and Data Science* from Syracuse University  
+- 💼 Most recently a Data Scientist at *Flock Freight*, with five years of experience across data science and analytics  
+- 🧠 Experienced in experimentation, machine learning, applied AI, predictive modeling, and transforming complex data into business insights  
+- 🚀 Skilled at wearing multiple hats and solving ambiguous problems in fast-paced startup environments  
+- 🎯 Fun fact: I transitioned from the creative world of Architecture into the analytical world of Data Science  
 
 </details>
 
